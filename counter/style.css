@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #050505;
+}
+
+.num{
+    color: aliceblue;
+    text-align: center;
+    font-size: 70px;
+}
+button{
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: large;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 1px 1px 2px white;
+}
+.btn1{
+    background-color: green;
+}
+.btn2{
+    background-color: orange;
+}
+.btn3{
+    background-color: red;
+}
